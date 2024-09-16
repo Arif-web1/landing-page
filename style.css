@@ -1,0 +1,64 @@
+.li_bg{
+background-image:url(Blue.png);
+width: 498px;
+height: 452px;
+top: 300px;
+right:90px;
+border: none;
+transform: rotate(85deg); /* Rotates the div by 45 degrees */
+border-radius: 100px;
+/* opacity: 50%; */
+
+
+
+}
+.li2_bg{
+
+background-image: url(Background\ Blurs.png);
+background-position:center;
+width: 454px;
+height: 492px;
+}
+.hl{
+    background-image: url(Background\ Blurs.png);
+    background-position:center;
+
+    background: linear-gradient(200.26deg, rgba(16, 102, 99, 0.7) 1.7%, rgba(80, 207, 169, 0.091) 81.82%);
+
+}
+.li3_bg{
+    background-image: url(Green.png);
+
+    width: 400px;
+height: 420px;
+position :absolute;
+top:50px;
+right: 500px;
+border-radius: 200px;
+/* opacity: 30%; */
+transform: rotate(190deg);
+}
+.li_bg4{
+    background-image:url(Blue.png);
+    width: 398px;
+    height: 352px;
+    top: 400px;
+    right: 150px;
+    border: none;
+    transform: rotate(240deg); /* Rotates the div by 45 degrees */
+    border-radius: 180px;
+    /* opacity: 70%; */
+    box-shadow: rgb(67, 105, 67);
+    }
+
+    .li5_bg {
+        background-image: url(Green.png);
+    width: 200px;
+height: 220px;
+position :absolute;
+top:50px;
+right: 430px;
+border-radius: 100px;
+/* opacity: 70%; */
+transform: rotate(290deg);
+    }
